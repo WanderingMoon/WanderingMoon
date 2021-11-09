@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WanderingMoon
 - 👀 I’m interested in life and learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning bloclchain and defi (on hive).
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on discord wanderingmoon#5871
 
