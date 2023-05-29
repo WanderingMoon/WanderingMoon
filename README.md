@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WanderingMoon
 - 👀 I’m interested in life and learning
-- 🌱 I’m currently learning bloclchain and defi (on hive) and python.
+- 🌱 I’m currently learning blockchain and defi (on hive) and python.
 - 💞️ I’m looking to collaborate on creating an opensource version of Chatgpt.
 - 📫 You can reach me on discord wanderingmoon#5871
 
